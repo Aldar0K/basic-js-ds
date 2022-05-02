@@ -15,7 +15,7 @@ class BinarySearchTree {
   }
 
   root() {
-    return this.Node;
+    return this.rootNode;
   }
 
   add(data) {
